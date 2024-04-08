@@ -10,12 +10,12 @@ The dataset comprises approximately 25,000 observations related to patient admis
 
 ## Structure
 
-EDA
-Data Preprocessing
-Feture Engineering
-Model Training
-SVM/KNN
-MLP/Ensemble methods (Stacking)
-Ensemble Methods
-Cross Validation
-Conclusions
+- EDA
+- Data Preprocessing
+- Feture Engineering
+- Model Training
+- SVM/KNN
+- MLP/Ensemble methods (Stacking)
+- Ensemble Methods
+- Cross Validation
+- Conclusions
