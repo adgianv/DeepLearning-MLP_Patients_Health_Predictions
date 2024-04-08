@@ -7,3 +7,15 @@ This project aims to perform two distinct classification tasks using a patient d
 ## Dataset
 
 The dataset comprises approximately 25,000 observations related to patient admissions at the hospital. It includes standard health indicators (e.g., respiratory rate, heart rate) along with admission dates and other relevant variables. The target variables, "Length of Stay" and "HOSPITAL EXPIRE FLAG," are available in the training data for model training.
+
+## Structure
+
+EDA
+Data Preprocessing
+Feture Engineering
+Model Training
+SVM/KNN
+MLP/Ensemble methods (Stacking)
+Ensemble Methods
+Cross Validation
+Conclusions
