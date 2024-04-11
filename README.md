@@ -3,6 +3,7 @@
 ## Overview and Objective
 
 This project aims to perform two distinct classification tasks using a patient dataset: predicting the "Length of Stay" and forecasting mortality ("HOSPITAL EXPIRE FLAG").
+- Description of the tasks are described in detail within the two sub-repositories.
 
 ## Libraries
 **Standard DataScience Libraries, Scikit-Learn, Tensorflow**
